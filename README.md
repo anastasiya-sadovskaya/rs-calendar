@@ -1,1 +1,1 @@
-https://anastasiya-sadovskaya.github.io/rs-calendar/
+http://mit.by/test-calendar/index.html
